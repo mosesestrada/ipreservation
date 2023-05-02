@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.imgur.com/DfR8wiF.jpg" height="80%" width="80%" alt="VM logo"/>
+ <img src="https://i.imgur.com/cLOWZFd.jpg" height="80%" width="80%" alt="VM logo"/>
 </p>
 
 <h1>Creating an IP reservation</h1>
@@ -60,7 +60,7 @@ Select Yes to the DHCP prompt.
 <br />
  I hope you enjoyed this demonstration.
  <br/>
-<img src="https://i.imgur.com/8XiAIhm.jpg" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/yJKNCtj.jpg" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
 
