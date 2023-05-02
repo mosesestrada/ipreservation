@@ -53,15 +53,12 @@ Select Yes to the DHCP prompt.
 <img src="https://i.imgur.com/mS0hoQR.png" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
-
-That's it! We are finished! You will now see the completed reservation for our device.
-
+ That's it! We are finished! You will now see the completed reservation for our device.
  <br/>
 <img src="https://i.imgur.com/SO3clD9.png" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
-
-I hope you enjoyed this demonstration.
+ I hope you enjoyed this demonstration.
  <br/>
 <img src="https://i.imgur.com/8XiAIhm.jpg" height="80%" width="80%" alt="DHCP"/>
 <br />
