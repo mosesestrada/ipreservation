@@ -2,7 +2,7 @@
  <img src="https://i.imgur.com/DfR8wiF.jpg" height="80%" width="80%" alt="VM logo"/>
 </p>
 
-<h1>Creating an IP exclusion scope</h1>
+<h1>Creating an IP reservation</h1>
 
 
 <h2>Description</h2>
@@ -19,44 +19,53 @@ Get ready for an awesome demonstration! Today, we're going to create an IP reser
 
 <p align="center">
 
-<br/>
 
 <br />
-<br />
-From Hyper-V Manager, select  your host server, in this example ours is CORPSERVER. We are going to be double clicking on our DHCP Virtual Machine to connect to it.
+From the Hyper-V manager, Select your host server. In this example we will highlight ours which is CORPSERVER. Next we will double-click our DHCP server to connect to the VM.
  <br/>
-<img src="https://i.imgur.com/EVXAv46.png" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/xuHGUAu.png" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
 Once our DHCP VM connects. Open server manager then select tools> DHCP
  <br/>
-<img src="https://i.imgur.com/LE4izeo.png" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/hm0Nh6l.png" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
-In the DHCP dialogue box expand DHCP> Your Domain> IPV4> Scope. Right click address pool and select "exclusion range".
+On the left plane expand your domain > IPV4 > Scope
 
  <br/>
-<img src="https://i.imgur.com/tDBn0VB.png" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/30UkFYa.png" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
-Enter your desired exclusion range.
+Right-Click Reservations and select new reservation.
 <br/>
-<img src="https://i.imgur.com/EGqLtiT.png" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/KsxGpCc.png" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
-You will then see your results posted in the prompt. You are finished, close all open boxes.
+In the Reservation name field, enter a reservation name
+In the IP address field, enter the IP address for the reservation.
+In the MAC address field enter the MAC address of your device.
+Under supported types select DHCP only. When you are done select Add to create the client reservation.
+Select Yes to the DHCP prompt.
+
 
  <br/>
-<img src="https://i.imgur.com/JorxxRM.png" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/mS0hoQR.png" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
-I hope you enjoyed this demonstration.
 
+That's it! We are finished! You will now see the completed reservation for our device.
+
+ <br/>
+<img src="https://i.imgur.com/SO3clD9.png" height="80%" width="80%" alt="DHCP"/>
+<br />
+<br />
+
+I hope you enjoyed this demonstration.
  <br/>
 <img src="https://i.imgur.com/8XiAIhm.jpg" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
-
 
 </p>
 
