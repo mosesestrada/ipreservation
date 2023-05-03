@@ -7,7 +7,7 @@
 
 <h2>Description</h2>
 
-Get ready for an awesome demonstration! Today, we're going to create an IP reservation for my brand new Laserjet Printer. By reserving a specific IP address for this printer, we're guaranteeing it always has the same address in our network. This simple reservation will eliminate any potential connectivity headaches and ensure that all devices in my network can quickly and easily locate the printer. Trust me, this reservation will not only make my life easier, but it'll have you on the edge of your seat with excitement!
+Get ready for an awesome demonstration! Today, we're going to create an IP reservation for my brand new Laserjet Printer. By reserving a specific IP address for this printer, we're guaranteeing it always has the same address in our network. This simple reservation will eliminate any potential connectivity headaches and ensure that all devices in my network can quickly and easily locate the printer. So let's get started!
 <br />
 
 <h2>Environments Used </h2>
