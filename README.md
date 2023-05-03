@@ -21,7 +21,7 @@ Get ready for an awesome demonstration! Today, we're going to create an IP reser
 
 
 <br />
-From the Hyper-V manager, Select your host server. In this example we will highlight ours which is CORPSERVER. Next we will double-click our DHCP server to connect to the VM.
+From the Hyper-V manager, Select your Hyper-V host server. In this example we will highlight ours which is CORPSERVER. Next we will double-click our DHCP server to connect to the VM.
  <br/>
 <img src="https://i.imgur.com/xuHGUAu.png" height="80%" width="80%" alt="DHCP"/>
 <br />
